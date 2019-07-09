@@ -15,22 +15,6 @@ Adds toolbar it include buttons show/hide with tabs of active documents on the t
 ![ScreenShot](https://raw.githubusercontent.com/DH3ALEJANDRO/custom-work-for-brackets/master/screenshoot/normal.png)
 ![ScreenShot](https://raw.githubusercontent.com/DH3ALEJANDRO/custom-work-for-brackets/master/screenshoot/total%20example.gif)
 
-### Change History
-* 02/25/2015
- * solved the problem of split HORIZONTAL (pane)
-* 02/18/2015
-  * solved the problem for update
-* 02/12/2015
-   * add support multiple panel
-   * collision with other extension
-   * fix bugs (scroll double panel);
-* 01/23/2015
-   * move > "Configure Working Set & Split the editor Vertically or Horizontally" to top bar
-   * add boolean value to toolbar
-   * fix style `z-index` (linux)
-* 01/18/2015:
-   * Initial code
-
 ### For support & issues
 Please post your issues, feature changes/requests of this extension using [github](https://github.com/DH3ALEJANDRO/custom-work-for-brackets/issues). I will try to improve this extension.
 
@@ -42,15 +26,4 @@ Please post your issues, feature changes/requests of this extension using [githu
   - Search for this extension : "Tabs - Custom Working"
   - Click Install!
 
-### Install from URL
-* Open the the Extension Manager from the File menu.
-* drag & drop
-   * download following url https://raw.githubusercontent.com/DH3ALEJANDRO/custom-work-for-brackets/master/install/custom-work-for-brackets.zip
-   * drag & drop zip file in "Drag.zip here"
-   * Done Install.
-* from url
-   * Click on Install form URL...
-   * Copy and paste following URL in the text field: https://raw.githubusercontent.com/DH3ALEJANDRO/custom-work-for-brackets/master/install/custom-work-for-brackets.zip
-   * Click Install.
-
-> by : Avril Alejandro >> *dsgdsfhdfgshyt.avril*
+> by : Avril Alejandro >> *ZSSWPjdWpZzHj.avril*
